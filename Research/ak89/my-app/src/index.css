@@ -1,0 +1,121 @@
+.app-r-s-o {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.app-r-s-o-text {
+  top: 17px;
+  left: 109px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: 'Gill Sans', sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.app-r-s-o-logo {
+  top: 14px;
+  left: 18px;
+  width: 55px;
+  height: 55px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.app-r-s-o-vector {
+  top: 0px;
+  left: 0px;
+  width: 51px;
+  height: 51px;
+  position: absolute;
+}
+.app-r-s-o-header {
+  top: 83px;
+  left: 0px;
+  width: 1920px;
+  height: 70px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(98, 151, 255, 1);
+}
+.app-r-s-o-text1 {
+  top: 10px;
+  left: 45px;
+  color: rgba(0, 0, 0, 1);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family:'Gill Sans', sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.app-r-s-o-text3 {
+  top: 10px;
+  left: 223px;
+  color: rgba(0, 0, 0, 1);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: 'Gill Sans', sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.app-r-s-o-text5 {
+  top: 10px;
+  left: 401px;
+  color: rgba(0, 0, 0, 1);
+  width: 132px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: 'Gill Sans', sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
