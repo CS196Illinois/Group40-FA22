@@ -2,15 +2,15 @@
   width: 100%;
   height: 1024px;
   display: flex;
-  overflow: hidden;
+  overflow: scroll;
   position: relative;
   align-items: flex-start;
   flex-shrink: 0;
-  border-color: transparent;
-  background-color: rgba(255, 255, 255, 1);
+  border-color: rgb(216, 216, 216);
+  background-color: rgb(216, 216, 216);
 }
 .app-r-s-o-text {
-  top: 17px;
+  top: 0px;
   left: 109px;
   color: rgb(0, 0, 0);
   height: auto;
@@ -28,7 +28,7 @@
   text-decoration: none;
 }
 .app-r-s-o-logo {
-  top: 14px;
+  top: 0px;
   left: 18px;
   width: 55px;
   height: 55px;
@@ -47,10 +47,10 @@
   position: absolute;
 }
 .app-r-s-o-header {
-  top: 83px;
+  top: 45px;
   left: 0px;
   width: 1920px;
-  height: 70px;
+  height: 80px;
   display: flex;
   padding: 0;
   position: absolute;
@@ -66,7 +66,7 @@
   margin-bottom: 0;
   flex-direction: row;
   justify-content: flex-start;
-  background-color: rgba(98, 151, 255, 1);
+  background-color: rgb(98, 150, 255);
 }
 .app-r-s-o-text1 {
   top: 10px;
@@ -119,3 +119,117 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.app-r-s-o-name {
+  top: 165px;
+  left: 45px;
+  color: black;
+  width: 1000px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: 'Gill Sans', sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.app-r-s-o-form {
+  top: 300px;
+  left: 450px;
+  color: black;
+  width: 1000px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: 'Gill Sans', sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+fieldset {
+  border: 1px solid rgb(0, 0, 0);
+  width: 1200px;
+  padding: 5px;
+  margin-top: 110px;
+  margin-left: -200px;
+  line-height: 1;
+}
+button {
+ margin-top: 20px;
+ margin-left: -200px;
+ height: 25px;
+ width: 1210px;
+}
+
+button.button1 {
+ margin-top: -10px;
+ margin-left: 0px;
+ border: black;
+ height: 70px;
+ width: 200px;
+ background-color: rgba(98, 151, 255, 1);
+ font-size: 36px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: 'Gill Sans', sans-serif;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  border: 1px rgb(68, 121, 225, 1);
+}
+button.button1:hover {
+  background-color: rgb(78, 131, 235, 1);
+}
+button.button2 {
+  margin-top: -10px;
+  margin-left: 0px;
+  float: left;
+  border: black;
+  height: 70px;
+  width: 200px;
+  background-color: rgba(98, 151, 255, 1);
+  font-size: 36px;
+   align-self: auto;
+   font-style: Regular;
+   text-align: center;
+   font-family: 'Gill Sans', sans-serif;
+   font-weight: 400;
+   line-height: normal;
+   font-stretch: normal;
+   text-decoration: none;
+   border: 1px rgb(68, 121, 225, 1);
+}
+ button.button2:hover {
+   background-color: rgb(78, 131, 235, 1);
+ }
+ button.button3 {
+  margin-top: -10px;
+  margin-left: 0px;
+  float: left;
+  border: black;
+  height: 70px;
+  width: 200px;
+  background-color: rgba(98, 151, 255, 1);
+  font-size: 36px;
+   align-self: auto;
+   font-style: Regular;
+   text-align: center;
+   font-family: 'Gill Sans', sans-serif;
+   font-weight: 400;
+   line-height: normal;
+   font-stretch: normal;
+   text-decoration: none;
+  border: 1px rgb(68, 121, 225, 1);
+ }
+ button.button3:hover {
+   background-color: rgb(78, 131, 235, 1);
+ }
